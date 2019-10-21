@@ -22,6 +22,7 @@ public class Boat extends Actor
     {
         int x = super.getX();
         int y = super.getY();
+
         if(Greenfoot.isKeyDown("w"))
         {
           y--;
@@ -41,9 +42,3 @@ public class Boat extends Actor
         
     }
 }
-
-
-
-
-
-

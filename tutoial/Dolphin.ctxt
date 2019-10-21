@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Dolphin
+comment0.text=\n\ Write\ a\ description\ of\ class\ Dolphin\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Dolphin()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fall()
+comment4.params=
+comment4.target=void\ jump()
+comment5.params=
+comment5.target=void\ move()
+numComments=6
