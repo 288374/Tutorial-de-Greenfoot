@@ -1,6 +1,10 @@
 #Greenfoot project file
 class.Boat.image=boat02-f.png
+<<<<<<< HEAD
 class.Dolphin.image=dolphin.png
+=======
+<<<<<<< HEAD
+>>>>>>> master
 dependency1.from=MyWorld
 dependency1.to=Boat
 dependency1.type=UsesDependency
@@ -10,7 +14,19 @@ editor.fx.0.x=547
 editor.fx.0.y=80
 height=780
 package.numDependencies=1
+<<<<<<< HEAD
 package.numTargets=3
+=======
+=======
+editor.fx.0.height=703
+editor.fx.0.width=800
+editor.fx.0.x=459
+editor.fx.0.y=379
+height=780
+package.numDependencies=0
+>>>>>>> master
+package.numTargets=2
+>>>>>>> master
 project.charset=UTF-8
 publish.hasSource=false
 publish.locked=true
@@ -24,7 +40,15 @@ readme.name=@README
 readme.width=47
 readme.x=10
 readme.y=10
+<<<<<<< HEAD
 simulation.speed=54
+=======
+<<<<<<< HEAD
+simulation.speed=93
+=======
+simulation.speed=50
+>>>>>>> master
+>>>>>>> master
 target1.height=50
 target1.name=Dolphin
 target1.showInterface=false
@@ -49,5 +73,15 @@ target3.y=0
 version=3.0.0
 width=864
 world.lastInstantiated=MyWorld
+<<<<<<< HEAD
 xPosition=564
 yPosition=137
+=======
+<<<<<<< HEAD
+xPosition=547
+yPosition=143
+=======
+xPosition=572
+yPosition=152
+>>>>>>> master
+>>>>>>> master
